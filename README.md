@@ -20,6 +20,9 @@ Os dados são obtidos através da API do Banco Mundial, especificamente a expect
 http://api.worldbank.org/v2/country/br/indicator/SP.DYN.LE00.IN?date=1970:2024&format=json
 
 
+**Observação:** Se desejar obter dados de um país específico ou calcular a média mundial, altere na URL acima a sigla `br` para o código do país desejado ou use `all` para todos os países.
+
+
 ## Processamento dos Dados
 
 O script realiza os seguintes passos para processar os dados:

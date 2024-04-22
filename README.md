@@ -1,4 +1,7 @@
-# Análise de Expectativa de Vida no Brasil
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/BrunoAraujo84/modelo-expectativa-vida-mundial/blob/main/LICENSE) ![GitHub top language](https://img.shields.io/github/languages/top/BrunoAraujo84/modelo-expectativa-vida-mundial) ![GitHub last commit](https://img.shields.io/github/last-commit/BrunoAraujo84/modelo-expectativa-vida-mundial) ![Contribuições bem-vindas](https://img.shields.io/badge/contribuições-bem_vindas-brightgreen.svg?style=flat)
+
+
+# Análise de Expectativa de Vida no Brasil dos últimos 50 anos
 
 Este repositório contém um script Python que analisa a evolução da expectativa de vida no Brasil por década, utilizando dados fornecidos pela API do Banco Mundial.
 
@@ -41,8 +44,3 @@ Para executar este script, você precisa instalar as dependências listadas e ex
 ## Licença
 
 Este projeto é licenciado sob a Licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
-
-## Contribuições
-
-Contribuições são bem-vindas! Por favor, leia o arquivo `CONTRIBUTING.md` para mais detalhes sobre como contribuir para este projeto.
-

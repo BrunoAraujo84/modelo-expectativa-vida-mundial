@@ -41,6 +41,10 @@ O script gera um gráfico que mostra a evolução da expectativa de vida ao long
 
 Para executar este script, você precisa instalar as dependências listadas e executar o arquivo Python. Certifique-se de que você tem acesso à internet para baixar os dados da API.
 
+1. pip install requests
+2. pip install matplotlib
+3. pip install scipy
+
 ## Licença
 
 Este projeto é licenciado sob a Licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
